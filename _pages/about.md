@@ -11,7 +11,6 @@ redirect_from:
 I am a Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu/). Before that, I was a permanent military professor in the [Department of Computer Science](https://rokaf.airforce.mil.kr/afa/1424/subview.do) at the [Republic of Korea Air Force Academy](https://rokaf.airforce.mil.kr/afa/index.do).  \\
 I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://www.snu.ac.kr/), advised by [Prof. Ted "Taekyeong" Kwon](https://scholar.google.com/citations?user=ruxWSFsAAAAJ&hl=en) and B.S. in System Engineering from the Republic of Korea Air Force Academy. My research interests focus on AI for security, LLM for wireless communication, privacy-preserving AI, networking, and edge intelligence.
 
-Here is my [CV](/files/cv_yoonkyojung.pdf) for more info! \\
 Contact: <code>echo eWtqdW5nQHVtZC5lZHUK | base64 --decode</code>
 
 🏫 Education
