@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu/). I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://www.snu.ac.kr/), advised by [Prof. Ted "Taekyeong" Kwon](https://scholar.google.com/citations?user=ruxWSFsAAAAJ&hl=en) and B.S. in System Engineering from the [Republic of Korea Air Force Academy](https://rokaf.airforce.mil.kr/afa/index.do). My research interests focus on AI for security, LLM for wireless communication, privacy-preserving AI, networking, and edge intelligence.
+I am a Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu/). I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://www.snu.ac.kr/), advised by [Prof. Ted "Taekyeong" Kwon](https://scholar.google.com/citations?user=ruxWSFsAAAAJ&hl=en) and B.S. in System Engineering from the [Republic of Korea Air Force Academy](https://rokaf.airforce.mil.kr/afa/index.do). My research interests focus on robotics, LLM for wireless communication, AI for security, networking, and edge intelligence.
 
 Contact: <code>echo eWtqdW5nQHVtZC5lZHUK | base64 --decode</code>
 
@@ -16,6 +16,7 @@ Contact: <code>echo eWtqdW5nQHVtZC5lZHUK | base64 --decode</code>
 ------
 * Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park (UMD)
 <span style="font-size:80%">
+<br>Advisor: [Prof. Furong Huang](https://furong-huang.com/)
 <br>Aug. 2024 -
 </span>
 
