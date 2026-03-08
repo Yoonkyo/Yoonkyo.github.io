@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu/). I received my M.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://www.snu.ac.kr/), advised by [Prof. Taekyeong "Ted" Kwon](https://scholar.google.com/citations?user=ruxWSFsAAAAJ&hl=en) and B.S. in System Engineering from the Republic of Korea Air Force Academy. My research interests focus on robotics, reinforcement learning, LLM for wireless communication, AI for security, and edge intelligence.
+I am a Ph.D. student at the [University of Maryland, College Park](https://www.umd.edu/), advised by [Prof. Furong Huang](https://furong-huang.com/). My research focuses on robot foundation models and scalable robot learning from large-scale data to enable generalizable robotic systems across diverse tasks and embodiments.
+
+Previously, I earned my M.S. from [Seoul National University](https://www.snu.ac.kr/), where I was advised by [Prof. Taekyeong "Ted" Kwon](https://scholar.google.com/citations?user=ruxWSFsAAAAJ&hl=en) and B.S. from the Republic of Korea Air Force Academy.
 
 Contact: ykjung@umd.edu
 
