@@ -14,7 +14,13 @@ Previously, I earned my M.S. from [Seoul National University](https://www.snu.ac
 
 Contact: ykjung@umd.edu
 
-🏫 Education
+
+📢 News
+------
+* (Feb. 2026) [TraceGen](https://tracegen.github.io/) is accepted to CVPR 2026
+
+
+🎓 Education
 ------
 * Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park (UMD)
 <span style="font-size:80%">
