@@ -17,7 +17,7 @@ Contact: ykjung@umd.edu
 
 📢 News
 ------
-* (Feb. 2026) [TraceGen](https://tracegen.github.io/) is accepted to CVPR 2026
+* (Feb. 2026) [TraceGen](https://tracegen.github.io/) is accepted to CVPR 2026.
 
 
 🎓 Education
