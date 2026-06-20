@@ -17,6 +17,7 @@ Contact: ykjung@umd.edu
 
 📢 News
 ------
+* (Jun. 2026) We released [μ₀](https://mu0-wm.github.io/), a trace-space world model for robot learning.
 * (Feb. 2026) [TraceGen](https://tracegen.github.io/) is accepted to CVPR 2026.
 
 
