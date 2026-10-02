@@ -17,7 +17,8 @@ Contact: ykjung@umd.edu
 
 📢 News
 ------
-* (Jun. 2026) We released [μ₀](https://mu0-wm.github.io/), a trace-space world model for robot learning.
+* (Sep. 2026) [μ₀](https://mu0-wm.github.io/) is accepted to CoRL 2026 and wins the 🏆 Best Paper Award at the IROS 2026 RoBoWoMo Workshop. Check out our [project page](https://mu0-wm.github.io/), [X post](https://x.com/furongh/status/2066203382117962182?s=20), and [UMIACS article](https://www.umiacs.umd.edu/news-events/news/teaching-robots-follow-motion).
+* (Jun. 2026) We release [μ₀](https://mu0-wm.github.io/), a trace-space world model for robot learning.
 * (Feb. 2026) [TraceGen](https://tracegen.github.io/) is accepted to CVPR 2026.
 
 
