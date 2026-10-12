@@ -17,6 +17,8 @@ Contact: ykjung@umd.edu
 
 📢 News
 ------
+
+* (Oct. 2026) [Dex-One2Many](https://dex-one2many.github.io/), a real-to-sim-to-real framework for learning a generalizable dexterous manipulation policy from a single human video, is out on arXiv!
 * (Sep. 2026) [μ₀](https://mu0-wm.github.io/) is accepted to CoRL 2026 and wins the 🏆Best Paper Award at the IROS 2026 RoBoWoMo Workshop. Check out our [project page](https://mu0-wm.github.io/) and [X post](https://x.com/furongh/status/2066203382117962182?s=20).
 * (Jun. 2026) We release [μ₀](https://mu0-wm.github.io/), a trace-space world model for robot learning.
 * (Feb. 2026) [TraceGen](https://tracegen.github.io/) is accepted to CVPR 2026.
@@ -24,6 +26,7 @@ Contact: ykjung@umd.edu
 
 🎓 Education
 ------
+
 * Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park (UMD)
 <span style="font-size:80%">
 <br>Advisor: [Prof. Furong Huang](https://furong-huang.com/)
